@@ -1,0 +1,39 @@
+.top{
+    background-image: url(../images/hero\ image.png);
+    background-size: 1600px;
+    background-repeat: no-repeat;
+}
+.dash{
+    width: 2px;
+    height: 50px;
+    background-color: aliceblue;
+}
+
+
+.order-btn{
+    background-color: orange;
+}
+.info{
+padding: 200px 200px;
+}
+.box3{
+    background-image:url(../images/bg.png);
+    background-repeat:no-repeat;
+    background-size:1600px;
+}
+.mark{
+    background-image:url(../images/mark.png);
+    background-repeat:no-repeat;
+    background-size:1600px;
+}
+.btns{
+margin: 0 75px;
+}
+.elips{
+    position: relative;
+    left: 180px;
+    top: -80px;
+}
+.foot{
+    height: 300px;
+}
